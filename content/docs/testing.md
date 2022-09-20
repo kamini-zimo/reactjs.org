@@ -37,4 +37,4 @@ Different answers may work for different teams and products.
 This section is divided in two pages:
 
 - [Recipes](/docs/testing-recipes.html): Common patterns when writing tests for React components.
-- [Environments](/docs/testing-environments.html): What to consider when setting up a testing environment for React components.
+- [Environments](/docs/testing-environments.html): What to consider when setting up a testing environment for React components......
